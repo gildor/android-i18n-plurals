@@ -1,5 +1,5 @@
 # android-i18n-plurals
-Automatically exported from code.google.com/p/android-i18n-plurals
+Automatically exported from `code.google.com/p/android-i18n-plurals`
 
 Android has great built in support for plural forms that represent different quantities. It is well documented in [this section](http://developer.android.com/guide/topics/resources/string-resource.html#Plurals) of API reference.
 
